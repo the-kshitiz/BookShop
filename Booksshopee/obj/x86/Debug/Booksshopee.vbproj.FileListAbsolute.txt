@@ -1,0 +1,84 @@
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.vbprojResolveAssemblyReference.cache
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.adduser.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.changepass.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custbill.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custdetail.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.customerinfo.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custpayment.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custreport.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custsales.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custsalesedit.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custwise.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.loginForm1.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.mainform.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.Resources.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.productinfo.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.productrpt.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.productstk.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.purchase.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.purchasedetail.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.purchaseedit.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.purchaserpt.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.salesdetail.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.salesrpt.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.suppbill.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.suppdetail.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.supplierinfo.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.supplierrpt.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.supppayment.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.totalsalesrpt.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.vbproj.GenerateResource.Cache
+X:\project book store\Booksshopee\Booksshopee\bin\Debug\Booksshopee.exe.config
+X:\project book store\Booksshopee\Booksshopee\bin\Debug\books.accdb
+X:\project book store\Booksshopee\Booksshopee\bin\Debug\Booksshopee.exe
+X:\project book store\Booksshopee\Booksshopee\bin\Debug\Booksshopee.pdb
+X:\project book store\Booksshopee\Booksshopee\bin\Debug\Booksshopee.xml
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.exe
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.xml
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.pdb
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.Gst.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.Gstcollection.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.Form11.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.forget.resources
+X:\project book store\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.setpassword.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\bin\Debug\Booksshopee.exe.config
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.exe
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.xml
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.pdb
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.vbprojResolveAssemblyReference.cache
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.aboutus.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.adduser.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.changepass.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custbill.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custdetail.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.customerinfo.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custpayment.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custreport.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custsales.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custsalesedit.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.custwise.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.forget.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.Form11.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.loginForm1.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.mainform.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.Resources.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.productinfo.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.Productrpt.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.productstk.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.purchase.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.purchasedetail.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.purchaseedit.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.purchaserpt.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.salesdetail.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.salesrpt.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.setpassword.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.suppbill.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.suppdetail.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.supplierinfo.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.supplierrpt.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.supppayment.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.totalsalesrpt.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.Gst.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.Gstcollection.resources
+C:\Users\COMPAQ\Desktop\Booksshopee\Booksshopee\obj\x86\Debug\Booksshopee.vbproj.GenerateResource.Cache
